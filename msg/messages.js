@@ -288,13 +288,14 @@ Blockly.Msg.SOUND_RECORD = 'record...';
 // Category labels
 Blockly.Msg.CATEGORY_MOTION = 'Motion';
 Blockly.Msg.CATEGORY_LOOKS = 'Looks';
-Blockly.Msg.CATEGORY_SOUND = 'Sound';
+Blockly.Msg.CATEGORY_SOUND = 'Audio';
 Blockly.Msg.CATEGORY_EVENTS = 'Events';
-Blockly.Msg.CATEGORY_CONTROL = 'Control';
+Blockly.Msg.CATEGORY_CONTROL = 'Logic';
 Blockly.Msg.CATEGORY_SENSING = 'Sensing';
 Blockly.Msg.CATEGORY_OPERATORS = 'Operators';
 Blockly.Msg.CATEGORY_VARIABLES = 'Variables';
-Blockly.Msg.CATEGORY_MYBLOCKS = 'My Blocks';
+Blockly.Msg.CATEGORY_COMMENTS = 'Comments';
+Blockly.Msg.CATEGORY_MYBLOCKS = 'Functions';
 
 // Context menus
 Blockly.Msg.DUPLICATE = 'Duplicate';
